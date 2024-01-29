@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>side menu bar</name>
+   <tag></tag>
+   <elementGuidId>03316866-b0ea-4353-8e36-afa6dbdc4a12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;react-burger-menu-btn&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;react-burger-menu-btn&quot;]</value>
+      <webElementGuid>bffc59c4-0330-479d-807f-53fc38671d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[1]/div[1]/div[1]/div/div[1]/div/button</value>
+      <webElementGuid>47fc8e89-d388-4fcb-86e4-61aed6124df5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

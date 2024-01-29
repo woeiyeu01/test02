@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sort filter</name>
+   <tag></tag>
+   <elementGuidId>faa0ee7c-9cca-43d2-bf5c-480fa38c6fe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;header_container&quot;]/div[2]/div/span/select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;header_container&quot;]/div[2]/div/span/select</value>
+      <webElementGuid>89f3e0c9-53bc-406a-a952-17dfa9d98ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[1]/div[2]/div/span/select</value>
+      <webElementGuid>62d3e9f7-1d04-410b-af9d-1e638c269ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

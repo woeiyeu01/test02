@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shopping cart item</name>
+   <tag></tag>
+   <elementGuidId>8620865a-1a62-4380-a866-df30e2a5d306</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;item_4_title_link&quot;]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;item_4_title_link&quot;]/div</value>
+      <webElementGuid>89b53a91-59c3-4a47-9bc9-ed02c2af93e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[2]/div/div[1]/div[3]/div[2]/a/div</value>
+      <webElementGuid>2f80265a-4d66-4abe-8e68-64587e75ba6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

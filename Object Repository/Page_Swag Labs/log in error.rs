@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>log in error</name>
+   <tag></tag>
+   <elementGuidId>05f365ef-1792-494c-8388-8f6726dd99de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;login_button_container&quot;]/div/form/div[3]/h3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;login_button_container&quot;]/div/form/div[3]/h3</value>
+      <webElementGuid>812fb588-5ca7-4fd2-b120-9d6ecebd3aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div/div/div[2]/div[1]/div/div/form/div[3]/h3</value>
+      <webElementGuid>055d3904-6658-434e-8472-d71700fead96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
